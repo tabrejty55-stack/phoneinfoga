@@ -29,7 +29,7 @@ In the UK, and many other countries internationally, local dialing may require t
 
 For example, here’s a UK-based number in standard local formatting: 020 7183 8750
 
-Here’s the same phone number in E.164 formatting: +442071838750
+Here’s the same phone number in E.164 formatting: +7718743966
 
 
 ## Custom formatting
